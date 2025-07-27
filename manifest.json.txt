@@ -1,0 +1,18 @@
+{
+    "name": "Space Coin Collector",
+    "short_name": "Coin Collector",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#121212",
+    "description": "A simple coin collector game",
+    "icons": [{
+        "src": "assets/icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }, {
+        "src": "assets/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "theme_color": "#3498db"
+}
